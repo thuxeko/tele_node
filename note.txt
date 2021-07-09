@@ -1,0 +1,4 @@
+npm install axios express log --save
+npm install @types/dotenv @types/express @types/node ts-node-dev typescript -D
+
+npx tsc --init //gen tsconfig
